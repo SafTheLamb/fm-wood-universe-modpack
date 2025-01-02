@@ -1,4 +1,12 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+  Minor Features:
+    - Changed Sniper Rifle Improved, Explosive Biters, Wooden Walls, and Sign Post to be required mods
+    - Add required mod Air Scrubbing
+  Changes:
+    - Add a few more optional mods as suggestions
+
+---------------------------------------------------------------------------------------------------
 Version: 0.1.0
   Major Features:
     - Initial release.
