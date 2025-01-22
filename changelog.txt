@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+  Minor Features:
+    - Add Wooden Cerys: Lunaponics as an optional dependency
+
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
   Minor Features:
     - Changed Sniper Rifle Improved, Explosive Biters, Wooden Walls, and Sign Post to be required mods
