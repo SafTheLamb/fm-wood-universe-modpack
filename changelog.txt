@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.4.2
+  Major Features:
+    - Add Diversitree as a required dependency
+
+---------------------------------------------------------------------------------------------------
+Version: 0.4.1
+  Major Features:
+    - Add Frost Biters as a required dependency
+    - Frost Biters only spawn on Aquilo and Frost Warfare is disabled by default
+
+---------------------------------------------------------------------------------------------------
 Version: 0.4.0
   Major Features:
     - Add Wooden Aquilo: Seabloom Algaculture as a required dependency
