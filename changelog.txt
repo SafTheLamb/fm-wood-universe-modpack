@@ -1,4 +1,15 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.4.0
+  Major Features:
+    - Add Wooden Aquilo: Seabloom Algaculture as a required dependency
+    - Add Scrap Industry as a required dependency
+    - Add Dirt Path as a required dependency
+    - Change Cupric Asteroids to be a required dependency
+    - Change Visible Pollutants to be a required dependency
+    - Change Lead and Tin to optional dependencies (still highly recommended and strongly supported)
+    - Change Improved Sniper Rifle to an optional dependency (same)
+
+---------------------------------------------------------------------------------------------------
 Version: 0.3.0
   Minor Features:
     - Add Wooden Cerys: Lunaponics as an optional dependency
