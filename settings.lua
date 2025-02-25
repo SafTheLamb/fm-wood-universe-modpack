@@ -1,9 +1,11 @@
-data.raw["bool-setting"]["wood-military-hard-mode"].default_value = true
-data.raw["bool-setting"]["cb-enable-cold-warfare"].default_value = false
-data.raw["string-setting"]["fb-spawn-planet"].default_value = "aquilo"
-if mods["bztin"] then
-  data.raw["string-setting"]["bztin-more-intermediates"].default_value = "cable"
+local function change_default_value(setting_type, setting_name, default_value)
+  local setting = data.raw[setting_type][setting_name]
+  if setting then
+    setting.default_value = default_value
+  end
 end
-if mods["aai-loaders"] then
-  data.raw["string-setting"]["aai-loaders-lubricant-recipe"].default_value = "enabled"
-end
+
+change_default_value("bool-setting", "cb-enable-cold-warfare", false)
+change_default_value("string-setting", "fb-spawn-planet", "aquilo")
+change_default_value("string-setting", "bztin-more-intermediates", "cable")
+change_default_value("string-setting", "aai-loaders-lubricant-recipe", "enabled")

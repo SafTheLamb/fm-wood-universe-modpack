@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.4.3
+  Changes:
+    - Change Dirt Path to an optional dependency, due to it sadly being performance-intensive
+
+---------------------------------------------------------------------------------------------------
 Version: 0.4.2
   Major Features:
     - Add Diversitree as a required dependency
