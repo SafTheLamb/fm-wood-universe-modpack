@@ -1,4 +1,18 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+  Major Features:
+    - Add Alloy Smelting and Early Crushing mods
+  Changes:
+    - Move atan air filtering recipes to the bioprocessing tab
+
+---------------------------------------------------------------------------------------------------
+Version: 0.4.4
+  Changes:
+    - Add localization for Wood floor from Wood-Walls
+    - Demote Cupric Asteroids to optional as it doesn't serve a major purpose by default
+    - Add Bio Processing Group for better recipe organization
+
+---------------------------------------------------------------------------------------------------
 Version: 0.4.3
   Changes:
     - Change Dirt Path to an optional dependency, due to it sadly being performance-intensive
