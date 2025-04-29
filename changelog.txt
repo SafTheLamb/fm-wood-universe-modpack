@@ -1,5 +1,6 @@
 ---------------------------------------------------------------------------------------------------
-Version: 0.5.1
+Version: 0.6.0
+Date: 2025-04-29
   Changes:
     - Restore Cupric Asteroids as a required dependency
     - Change Rusting Iron and Scrappy Industry to be optional (still recommended)
